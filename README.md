@@ -14,6 +14,11 @@ function gets activated which gives hints to the player to guess the number. And
 
 # Requirements (Need python 3.6 or above)
 
+$ sudo apt-install python3 # For Ubuntu
+$ sudo dnf install python3 # For Red Hat Distributions
+$ sudo pacman -Syu python3 # For Arch-Linux
+
+
 # Install the requirements using -->
 
 $ pip install requirements.txt
